@@ -14,6 +14,7 @@
 		211AE5AD297B29850011ACC5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 211AE5AC297B29850011ACC5 /* Assets.xcassets */; };
 		211AE5B0297B29850011ACC5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 211AE5AE297B29850011ACC5 /* LaunchScreen.storyboard */; };
 		211AE5B8297B29D50011ACC5 /* Student.swift in Sources */ = {isa = PBXBuildFile; fileRef = 211AE5B7297B29D50011ACC5 /* Student.swift */; };
+		21C39AAA29845634003FEAF7 /* MyFirstTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21C39AA929845634003FEAF7 /* MyFirstTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		211AE5AF297B29850011ACC5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		211AE5B1297B29850011ACC5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		211AE5B7297B29D50011ACC5 /* Student.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Student.swift; sourceTree = "<group>"; };
+		21C39AA929845634003FEAF7 /* MyFirstTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyFirstTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				211AE5AE297B29850011ACC5 /* LaunchScreen.storyboard */,
 				211AE5B1297B29850011ACC5 /* Info.plist */,
 				211AE5B7297B29D50011ACC5 /* Student.swift */,
+				21C39AA929845634003FEAF7 /* MyFirstTableViewController.swift */,
 			);
 			path = StudentsApp;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 			files = (
 				211AE5A8297B29840011ACC5 /* ViewController.swift in Sources */,
 				211AE5A4297B29840011ACC5 /* AppDelegate.swift in Sources */,
+				21C39AAA29845634003FEAF7 /* MyFirstTableViewController.swift in Sources */,
 				211AE5A6297B29840011ACC5 /* SceneDelegate.swift in Sources */,
 				211AE5B8297B29D50011ACC5 /* Student.swift in Sources */,
 			);

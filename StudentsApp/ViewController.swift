@@ -9,7 +9,7 @@ import UIKit
 
 // MVC
 
-class ViewController: UIViewController {
+class ViewController : UIViewController {
     
     @IBOutlet weak var numberText: UILabel!
     @IBOutlet weak var nameText: UILabel!
